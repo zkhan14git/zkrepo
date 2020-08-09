@@ -1,2 +1,2 @@
 # zkrepo
-zk---repo
+zk-repo
