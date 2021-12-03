@@ -1,4 +1,4 @@
-# Python OOP
+# Python OOP -- inheritance
 import datetime
 
 
