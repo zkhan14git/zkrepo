@@ -2,7 +2,7 @@
 import datetime
 
 
-class Employee:
+class Employee(object):
     num_of_emps = 0
     raise_amt = 1.04
 
